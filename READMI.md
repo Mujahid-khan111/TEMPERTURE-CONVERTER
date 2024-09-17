@@ -1,10 +1,11 @@
-# Celsius to Kelvin Conversion:
+# Celsius to Fahrenheit Conversion:
+# Fahrenheit to celsius convwrsion:
 
-## Formula
+## Formula:-
 
-* 𝐾 = 𝐶 + 273.15
+*  𝐾 = 𝐶 + 273.15
 K=C+273.15
-Fahrenheit to Kelvin Conversion:
+Fahrenheit to celsius Conversion:
 
 * Convert Fahrenheit to Celsius first:
 * 𝐶 = (𝐹−32) 1.8C = 1.8(F−32)
